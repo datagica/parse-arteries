@@ -1,0 +1,5674 @@
+[{
+    "id": "accessory-meningeal-artery",
+    "label": {
+      "en": "Accessory meningeal artery"
+    },
+    "description": {
+      "en": "Accessory meningeal artery"
+    },
+    "aliases": {
+      "en": [
+        "Accessory meningeal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "angular-artery",
+    "label": {
+      "en": "Angular artery"
+    },
+    "description": {
+      "en": "Angular artery"
+    },
+    "aliases": {
+      "en": [
+        "Angular artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-auricular-branches",
+    "label": {
+      "en": "Anterior auricular branches"
+    },
+    "description": {
+      "en": "Anterior auricular branches"
+    },
+    "aliases": {
+      "en": [
+        "Anterior auricular branches"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-cerebral-artery",
+    "label": {
+      "en": "Anterior cerebral artery"
+    },
+    "description": {
+      "en": "Anterior cerebral artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior cerebral artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-choroidal-artery",
+    "label": {
+      "en": "Anterior choroidal artery"
+    },
+    "description": {
+      "en": "Anterior choroidal artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior choroidal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-ciliary-artery",
+    "label": {
+      "en": "Anterior ciliary artery"
+    },
+    "description": {
+      "en": "Anterior ciliary artery"
+    },
+    "aliases": {
+      "en": [
+        "anterior ciliary artery",
+        "anterior ciliary arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-communicating-artery",
+    "label": {
+      "en": "Anterior communicating artery"
+    },
+    "description": {
+      "en": "Anterior communicating artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior communicating artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-ethmoidal-artery",
+    "label": {
+      "en": "Anterior ethmoidal artery"
+    },
+    "description": {
+      "en": "Anterior ethmoidal artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior ethmoidal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-inferior-cerebellar-artery",
+    "label": {
+      "en": "Anterior inferior cerebellar artery"
+    },
+    "description": {
+      "en": "Anterior inferior cerebellar artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior inferior cerebellar artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-spinal-artery",
+    "label": {
+      "en": "Anterior spinal artery"
+    },
+    "description": {
+      "en": "Anterior spinal artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior spinal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-superior-alveolar-artery",
+    "label": {
+      "en": "Anterior superior alveolar artery"
+    },
+    "description": {
+      "en": "Anterior superior alveolar artery"
+    },
+    "aliases": {
+      "en": [
+        "anterior superior alveolar artery",
+        "anterior superior alveolar arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-tympanic-artery",
+    "label": {
+      "en": "Anterior tympanic artery"
+    },
+    "description": {
+      "en": "Anterior tympanic artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior tympanic artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "anterolateral-central-artery",
+    "label": {
+      "en": "Anterolateral central artery"
+    },
+    "description": {
+      "en": "Anterolateral central artery"
+    },
+    "aliases": {
+      "en": [
+        "anterolateral central artery",
+        "anterolateral central arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "artery-of-percheron",
+    "label": {
+      "en": "Artery of Percheron"
+    },
+    "description": {
+      "en": "Artery of Percheron"
+    },
+    "aliases": {
+      "en": [
+        "Artery of Percheron"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "artery-of-the-pterygoid-canal",
+    "label": {
+      "en": "Artery of the pterygoid canal"
+    },
+    "description": {
+      "en": "Artery of the pterygoid canal"
+    },
+    "aliases": {
+      "en": [
+        "Artery of the pterygoid canal"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "ascending-palatine-artery",
+    "label": {
+      "en": "Ascending palatine artery"
+    },
+    "description": {
+      "en": "Ascending palatine artery"
+    },
+    "aliases": {
+      "en": [
+        "Ascending palatine artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "ascending-pharyngeal-artery",
+    "label": {
+      "en": "Ascending pharyngeal artery"
+    },
+    "description": {
+      "en": "Ascending pharyngeal artery"
+    },
+    "aliases": {
+      "en": [
+        "Ascending pharyngeal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "auricular-branch-of-occipital-artery",
+    "label": {
+      "en": "Auricular branch of occipital artery"
+    },
+    "description": {
+      "en": "Auricular branch of occipital artery"
+    },
+    "aliases": {
+      "en": [
+        "Auricular branch of occipital artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "auricular-branch-of-posterior-auricular-artery",
+    "label": {
+      "en": "Auricular branch of posterior auricular artery"
+    },
+    "description": {
+      "en": "Auricular branch of posterior auricular artery"
+    },
+    "aliases": {
+      "en": [
+        "Auricular branch of posterior auricular artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "basilar-artery",
+    "label": {
+      "en": "Basilar artery"
+    },
+    "description": {
+      "en": "Basilar artery"
+    },
+    "aliases": {
+      "en": [
+        "Basilar artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "buccal-artery",
+    "label": {
+      "en": "Buccal artery"
+    },
+    "description": {
+      "en": "Buccal artery"
+    },
+    "aliases": {
+      "en": [
+        "Buccal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "caroticotympanic-artery",
+    "label": {
+      "en": "Caroticotympanic artery"
+    },
+    "description": {
+      "en": "Caroticotympanic artery"
+    },
+    "aliases": {
+      "en": [
+        "caroticotympanic artery",
+        "caroticotympanic arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "carotid-sinus",
+    "label": {
+      "en": "Carotid sinus"
+    },
+    "description": {
+      "en": "Carotid sinus"
+    },
+    "aliases": {
+      "en": [
+        "Carotid sinus"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "cavernous-part-of-internal-carotid-artery",
+    "label": {
+      "en": "Cavernous part of internal carotid artery"
+    },
+    "description": {
+      "en": "Cavernous part of internal carotid artery"
+    },
+    "aliases": {
+      "en": [
+        "Cavernous part of internal carotid artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "central-retinal-artery",
+    "label": {
+      "en": "Central retinal artery"
+    },
+    "description": {
+      "en": "Central retinal artery"
+    },
+    "aliases": {
+      "en": [
+        "Central retinal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "cerebellar-artery",
+    "label": {
+      "en": "Cerebellar artery"
+    },
+    "description": {
+      "en": "Cerebellar artery"
+    },
+    "aliases": {
+      "en": [
+        "Cerebellar artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "cerebral-artery",
+    "label": {
+      "en": "Cerebral artery"
+    },
+    "description": {
+      "en": "Cerebral artery"
+    },
+    "aliases": {
+      "en": [
+        "cerebral artery",
+        "cerebral arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "cervical-part-of-internal-carotid-artery",
+    "label": {
+      "en": "Cervical part of internal carotid artery"
+    },
+    "description": {
+      "en": "Cervical part of internal carotid artery"
+    },
+    "aliases": {
+      "en": [
+        "Cervical part of internal carotid artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "ciliary-artery",
+    "label": {
+      "en": "Ciliary artery"
+    },
+    "description": {
+      "en": "Ciliary artery"
+    },
+    "aliases": {
+      "en": [
+        "ciliary artery",
+        "ciliary arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "circle-of-willis",
+    "label": {
+      "en": "Circle of Willis"
+    },
+    "description": {
+      "en": "Circle of Willis"
+    },
+    "aliases": {
+      "en": [
+        "Circle of Willis"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "circulus-arteriosus-minor",
+    "label": {
+      "en": "Circulus arteriosus minor"
+    },
+    "description": {
+      "en": "Circulus arteriosus minor"
+    },
+    "aliases": {
+      "en": [
+        "Circulus arteriosus minor"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "collicular-artery",
+    "label": {
+      "en": "Collicular artery"
+    },
+    "description": {
+      "en": "Collicular artery"
+    },
+    "aliases": {
+      "en": [
+        "collicular artery",
+        "collicular arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "common-carotid-artery",
+    "label": {
+      "en": "Common carotid artery"
+    },
+    "description": {
+      "en": "Common carotid artery"
+    },
+    "aliases": {
+      "en": [
+        "Common carotid artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "costocervical-trunk",
+    "label": {
+      "en": "Costocervical trunk"
+    },
+    "description": {
+      "en": "Costocervical trunk"
+    },
+    "aliases": {
+      "en": [
+        "Costocervical trunk"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "deep-auricular-artery",
+    "label": {
+      "en": "Deep auricular artery"
+    },
+    "description": {
+      "en": "Deep auricular artery"
+    },
+    "aliases": {
+      "en": [
+        "Deep auricular artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "deep-cervical-artery",
+    "label": {
+      "en": "Deep cervical artery"
+    },
+    "description": {
+      "en": "Deep cervical artery"
+    },
+    "aliases": {
+      "en": [
+        "Deep cervical artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "deep-temporal-artery",
+    "label": {
+      "en": "Deep temporal artery"
+    },
+    "description": {
+      "en": "Deep temporal artery"
+    },
+    "aliases": {
+      "en": [
+        "deep temporal artery",
+        "deep temporal arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "descending-branch-of-occipital-artery",
+    "label": {
+      "en": "Descending branch of occipital artery"
+    },
+    "description": {
+      "en": "Descending branch of occipital artery"
+    },
+    "aliases": {
+      "en": [
+        "Descending branch of occipital artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "descending-palatine-artery",
+    "label": {
+      "en": "Descending palatine artery"
+    },
+    "description": {
+      "en": "Descending palatine artery"
+    },
+    "aliases": {
+      "en": [
+        "Descending palatine artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "dorsal-nasal-artery",
+    "label": {
+      "en": "Dorsal nasal artery"
+    },
+    "description": {
+      "en": "Dorsal nasal artery"
+    },
+    "aliases": {
+      "en": [
+        "Dorsal nasal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "external-carotid-artery",
+    "label": {
+      "en": "External carotid artery"
+    },
+    "description": {
+      "en": "External carotid artery"
+    },
+    "aliases": {
+      "en": [
+        "External carotid artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "facial-artery",
+    "label": {
+      "en": "Facial artery"
+    },
+    "description": {
+      "en": "Facial artery"
+    },
+    "aliases": {
+      "en": [
+        "Facial artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "frontal-branch-of-superficial-temporal-artery",
+    "label": {
+      "en": "Frontal branch of superficial temporal artery"
+    },
+    "description": {
+      "en": "Frontal branch of superficial temporal artery"
+    },
+    "aliases": {
+      "en": [
+        "Frontal branch of superficial temporal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "glandular-branches-of-facial-artery",
+    "label": {
+      "en": "Glandular branches of facial artery"
+    },
+    "description": {
+      "en": "Glandular branches of facial artery"
+    },
+    "aliases": {
+      "en": [
+        "Glandular branches of facial artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "greater-palatine-artery",
+    "label": {
+      "en": "Greater palatine artery"
+    },
+    "description": {
+      "en": "Greater palatine artery"
+    },
+    "aliases": {
+      "en": [
+        "Greater palatine artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-alveolar-artery",
+    "label": {
+      "en": "Inferior alveolar artery"
+    },
+    "description": {
+      "en": "Inferior alveolar artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior alveolar artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-hypophysial-artery",
+    "label": {
+      "en": "Inferior hypophysial artery"
+    },
+    "description": {
+      "en": "Inferior hypophysial artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior hypophysial artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-labial-artery",
+    "label": {
+      "en": "Inferior labial artery"
+    },
+    "description": {
+      "en": "Inferior labial artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior labial artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-thyroid-artery",
+    "label": {
+      "en": "Inferior thyroid artery"
+    },
+    "description": {
+      "en": "Inferior thyroid artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior thyroid artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-tympanic-artery",
+    "label": {
+      "en": "Inferior tympanic artery"
+    },
+    "description": {
+      "en": "Inferior tympanic artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior tympanic artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "infraorbital-artery",
+    "label": {
+      "en": "Infraorbital artery"
+    },
+    "description": {
+      "en": "Infraorbital artery"
+    },
+    "aliases": {
+      "en": [
+        "Infraorbital artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "internal-carotid-artery",
+    "label": {
+      "en": "Internal carotid artery"
+    },
+    "description": {
+      "en": "Internal carotid artery"
+    },
+    "aliases": {
+      "en": [
+        "Internal carotid artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "labyrinthine-artery",
+    "label": {
+      "en": "Labyrinthine artery"
+    },
+    "description": {
+      "en": "Labyrinthine artery"
+    },
+    "aliases": {
+      "en": [
+        "Labyrinthine artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "lacrimal-artery",
+    "label": {
+      "en": "Lacrimal artery"
+    },
+    "description": {
+      "en": "Lacrimal artery"
+    },
+    "aliases": {
+      "en": [
+        "Lacrimal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "lateral-nasal-branch-of-facial-artery",
+    "label": {
+      "en": "Lateral nasal branch of facial artery"
+    },
+    "description": {
+      "en": "Lateral nasal branch of facial artery"
+    },
+    "aliases": {
+      "en": [
+        "Lateral nasal branch of facial artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "lateral-palpebral-artery",
+    "label": {
+      "en": "Lateral palpebral artery"
+    },
+    "description": {
+      "en": "Lateral palpebral artery"
+    },
+    "aliases": {
+      "en": [
+        "lateral palpebral artery",
+        "lateral palpebral arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "lesser-palatine-artery",
+    "label": {
+      "en": "Lesser palatine artery"
+    },
+    "description": {
+      "en": "Lesser palatine artery"
+    },
+    "aliases": {
+      "en": [
+        "Lesser palatine artery",
+        "Lesser palatine arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "lingual-artery",
+    "label": {
+      "en": "Lingual artery"
+    },
+    "description": {
+      "en": "Lingual artery"
+    },
+    "aliases": {
+      "en": [
+        "Lingual artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "long-posterior-ciliary-artery",
+    "label": {
+      "en": "Long posterior ciliary artery"
+    },
+    "description": {
+      "en": "Long posterior ciliary artery"
+    },
+    "aliases": {
+      "en": [
+        "long posterior ciliary artery",
+        "long posterior ciliary arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "masseteric-artery",
+    "label": {
+      "en": "Masseteric artery"
+    },
+    "description": {
+      "en": "Masseteric artery"
+    },
+    "aliases": {
+      "en": [
+        "Masseteric artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "maxillary-artery",
+    "label": {
+      "en": "Maxillary artery"
+    },
+    "description": {
+      "en": "Maxillary artery"
+    },
+    "aliases": {
+      "en": [
+        "Maxillary artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "medial-palpebral-artery",
+    "label": {
+      "en": "Medial palpebral artery"
+    },
+    "description": {
+      "en": "Medial palpebral artery"
+    },
+    "aliases": {
+      "en": [
+        "medial palpebral artery",
+        "medial palpebral arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "medial-striate-artery",
+    "label": {
+      "en": "Medial striate artery"
+    },
+    "description": {
+      "en": "Medial striate artery"
+    },
+    "aliases": {
+      "en": [
+        "Medial striate artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "meningeal-branch-of-occipital-artery",
+    "label": {
+      "en": "Meningeal branch of occipital artery"
+    },
+    "description": {
+      "en": "Meningeal branch of occipital artery"
+    },
+    "aliases": {
+      "en": [
+        "Meningeal branch of occipital artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "meningeal-branches-of-vertebral-artery",
+    "label": {
+      "en": "Meningeal branches of vertebral artery"
+    },
+    "description": {
+      "en": "Meningeal branches of vertebral artery"
+    },
+    "aliases": {
+      "en": [
+        "Meningeal branches of vertebral artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "meningohypophyseal-artery",
+    "label": {
+      "en": "Meningohypophyseal artery"
+    },
+    "description": {
+      "en": "Meningohypophyseal artery"
+    },
+    "aliases": {
+      "en": [
+        "Meningohypophyseal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "mental-branch-of-inferior-alveolar-artery",
+    "label": {
+      "en": "Mental branch of inferior alveolar artery"
+    },
+    "description": {
+      "en": "Mental branch of inferior alveolar artery"
+    },
+    "aliases": {
+      "en": [
+        "Mental branch of inferior alveolar artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "middle-cerebral-artery",
+    "label": {
+      "en": "Middle cerebral artery"
+    },
+    "description": {
+      "en": "Middle cerebral artery"
+    },
+    "aliases": {
+      "en": [
+        "Middle cerebral artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "middle-meningeal-artery",
+    "label": {
+      "en": "Middle meningeal artery"
+    },
+    "description": {
+      "en": "Middle meningeal artery"
+    },
+    "aliases": {
+      "en": [
+        "Middle meningeal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "middle-temporal-artery",
+    "label": {
+      "en": "Middle temporal artery"
+    },
+    "description": {
+      "en": "Middle temporal artery"
+    },
+    "aliases": {
+      "en": [
+        "Middle temporal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "mylohyoid-branch-of-inferior-alveolar-artery",
+    "label": {
+      "en": "Mylohyoid branch of inferior alveolar artery"
+    },
+    "description": {
+      "en": "Mylohyoid branch of inferior alveolar artery"
+    },
+    "aliases": {
+      "en": [
+        "Mylohyoid branch of inferior alveolar artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "occipital-artery",
+    "label": {
+      "en": "Occipital artery"
+    },
+    "description": {
+      "en": "Occipital artery"
+    },
+    "aliases": {
+      "en": [
+        "Occipital artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "occipital-branch-of-posterior-auricular-artery",
+    "label": {
+      "en": "Occipital branch of posterior auricular artery"
+    },
+    "description": {
+      "en": "Occipital branch of posterior auricular artery"
+    },
+    "aliases": {
+      "en": [
+        "Occipital branch of posterior auricular artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "occipital-branches-of-occipital-artery",
+    "label": {
+      "en": "Occipital branches of occipital artery"
+    },
+    "description": {
+      "en": "Occipital branches of occipital artery"
+    },
+    "aliases": {
+      "en": [
+        "Occipital branches of occipital artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "ophthalmic-artery",
+    "label": {
+      "en": "Ophthalmic artery"
+    },
+    "description": {
+      "en": "Ophthalmic artery"
+    },
+    "aliases": {
+      "en": [
+        "Ophthalmic artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "orbitofrontal-artery",
+    "label": {
+      "en": "Orbitofrontal artery"
+    },
+    "description": {
+      "en": "Orbitofrontal artery"
+    },
+    "aliases": {
+      "en": [
+        "Orbitofrontal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "paramedian-artery",
+    "label": {
+      "en": "Paramedian artery"
+    },
+    "description": {
+      "en": "Paramedian artery"
+    },
+    "aliases": {
+      "en": [
+        "paramedian artery",
+        "paramedian arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "parathyroid-artery",
+    "label": {
+      "en": "Parathyroid artery"
+    },
+    "description": {
+      "en": "Parathyroid artery"
+    },
+    "aliases": {
+      "en": [
+        "Parathyroid artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "parietal-branch-of-superficial-temporal-artery",
+    "label": {
+      "en": "Parietal branch of superficial temporal artery"
+    },
+    "description": {
+      "en": "Parietal branch of superficial temporal artery"
+    },
+    "aliases": {
+      "en": [
+        "Parietal branch of superficial temporal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "petrosal-branch-of-middle-meningeal-artery",
+    "label": {
+      "en": "Petrosal branch of middle meningeal artery"
+    },
+    "description": {
+      "en": "Petrosal branch of middle meningeal artery"
+    },
+    "aliases": {
+      "en": [
+        "Petrosal branch of middle meningeal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "petrous-portion-of-the-internal-carotid-artery",
+    "label": {
+      "en": "Petrous portion of the internal carotid artery"
+    },
+    "description": {
+      "en": "Petrous portion of the internal carotid artery"
+    },
+    "aliases": {
+      "en": [
+        "Petrous portion of the internal carotid artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "plexal-point",
+    "label": {
+      "en": "Plexal point"
+    },
+    "description": {
+      "en": "Plexal point"
+    },
+    "aliases": {
+      "en": [
+        "Plexal point"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "pontine-artery",
+    "label": {
+      "en": "Pontine artery"
+    },
+    "description": {
+      "en": "Pontine artery"
+    },
+    "aliases": {
+      "en": [
+        "pontine artery",
+        "pontine arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-auricular-artery",
+    "label": {
+      "en": "Posterior auricular artery"
+    },
+    "description": {
+      "en": "Posterior auricular artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior auricular artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-cerebral-artery",
+    "label": {
+      "en": "Posterior cerebral artery"
+    },
+    "description": {
+      "en": "Posterior cerebral artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior cerebral artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-communicating-artery",
+    "label": {
+      "en": "Posterior communicating artery"
+    },
+    "description": {
+      "en": "Posterior communicating artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior communicating artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-ethmoidal-artery",
+    "label": {
+      "en": "Posterior ethmoidal artery"
+    },
+    "description": {
+      "en": "Posterior ethmoidal artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior ethmoidal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-inferior-cerebellar-artery",
+    "label": {
+      "en": "Posterior inferior cerebellar artery"
+    },
+    "description": {
+      "en": "Posterior inferior cerebellar artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior inferior cerebellar artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-lateral-nasal-artery",
+    "label": {
+      "en": "Posterior lateral nasal artery"
+    },
+    "description": {
+      "en": "Posterior lateral nasal artery"
+    },
+    "aliases": {
+      "en": [
+        "posterior lateral nasal artery",
+        "posterior lateral nasal arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-meningeal-artery",
+    "label": {
+      "en": "Posterior meningeal artery"
+    },
+    "description": {
+      "en": "Posterior meningeal artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior meningeal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-septal-branches-of-sphenopalatine-artery",
+    "label": {
+      "en": "Posterior septal branches of sphenopalatine artery"
+    },
+    "description": {
+      "en": "Posterior septal branches of sphenopalatine artery"
+    },
+    "aliases": {
+      "en": [
+        "posterior septal branch of sphenopalatine artery",
+        "posterior septal branches of sphenopalatine artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-spinal-artery",
+    "label": {
+      "en": "Posterior spinal artery"
+    },
+    "description": {
+      "en": "Posterior spinal artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior spinal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-superior-alveolar-artery",
+    "label": {
+      "en": "Posterior superior alveolar artery"
+    },
+    "description": {
+      "en": "Posterior superior alveolar artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior superior alveolar artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "precerebral-artery",
+    "label": {
+      "en": "Precerebral artery"
+    },
+    "description": {
+      "en": "Precerebral artery"
+    },
+    "aliases": {
+      "en": [
+        "Precerebral artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "pterygoid-branches-of-maxillary-artery",
+    "label": {
+      "en": "Pterygoid branches of maxillary artery"
+    },
+    "description": {
+      "en": "Pterygoid branches of maxillary artery"
+    },
+    "aliases": {
+      "en": [
+        "Pterygoid branches of maxillary artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "recurrent-artery-of-heubner",
+    "label": {
+      "en": "Recurrent artery of Heubner"
+    },
+    "description": {
+      "en": "Recurrent artery of Heubner"
+    },
+    "aliases": {
+      "en": [
+        "Recurrent artery of Heubner"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "short-posterior-ciliary-artery",
+    "label": {
+      "en": "Short posterior ciliary artery"
+    },
+    "description": {
+      "en": "Short posterior ciliary artery"
+    },
+    "aliases": {
+      "en": [
+        "short posterior ciliary artery",
+        "short posterior ciliary arteries"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "sphenopalatine-artery",
+    "label": {
+      "en": "Sphenopalatine artery"
+    },
+    "description": {
+      "en": "Sphenopalatine artery"
+    },
+    "aliases": {
+      "en": [
+        "Sphenopalatine artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "stapedial-branch-of-posterior-auricular-artery",
+    "label": {
+      "en": "Stapedial branch of posterior auricular artery"
+    },
+    "description": {
+      "en": "Stapedial branch of posterior auricular artery"
+    },
+    "aliases": {
+      "en": [
+        "Stapedial branch of posterior auricular artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "sternocleidomastoid-branches-of-occipital-artery",
+    "label": {
+      "en": "Sternocleidomastoid branches of occipital artery"
+    },
+    "description": {
+      "en": "Sternocleidomastoid branches of occipital artery"
+    },
+    "aliases": {
+      "en": [
+        "Sternocleidomastoid branches of occipital artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "stylomastoid-artery",
+    "label": {
+      "en": "Stylomastoid artery"
+    },
+    "description": {
+      "en": "Stylomastoid artery"
+    },
+    "aliases": {
+      "en": [
+        "Stylomastoid artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "subclavian-artery",
+    "label": {
+      "en": "Subclavian artery"
+    },
+    "description": {
+      "en": "Subclavian artery"
+    },
+    "aliases": {
+      "en": [
+        "Subclavian artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "submental-artery",
+    "label": {
+      "en": "Submental artery"
+    },
+    "description": {
+      "en": "Submental artery"
+    },
+    "aliases": {
+      "en": [
+        "Submental artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "superficial-temporal-artery",
+    "label": {
+      "en": "Superficial temporal artery"
+    },
+    "description": {
+      "en": "Superficial temporal artery"
+    },
+    "aliases": {
+      "en": [
+        "Superficial temporal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "superior-cerebellar-artery",
+    "label": {
+      "en": "Superior cerebellar artery"
+    },
+    "description": {
+      "en": "Superior cerebellar artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior cerebellar artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "superior-hypophysial-artery",
+    "label": {
+      "en": "Superior hypophysial artery"
+    },
+    "description": {
+      "en": "Superior hypophysial artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior hypophysial artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "superior-labial-artery",
+    "label": {
+      "en": "Superior labial artery"
+    },
+    "description": {
+      "en": "Superior labial artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior labial artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "superior-thyroid-artery",
+    "label": {
+      "en": "Superior thyroid artery"
+    },
+    "description": {
+      "en": "Superior thyroid artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior thyroid artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "superior-tympanic-artery",
+    "label": {
+      "en": "Superior tympanic artery"
+    },
+    "description": {
+      "en": "Superior tympanic artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior tympanic artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "supraorbital-artery",
+    "label": {
+      "en": "Supraorbital artery"
+    },
+    "description": {
+      "en": "Supraorbital artery"
+    },
+    "aliases": {
+      "en": [
+        "Supraorbital artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "suprascapular-artery",
+    "label": {
+      "en": "Suprascapular artery"
+    },
+    "description": {
+      "en": "Suprascapular artery"
+    },
+    "aliases": {
+      "en": [
+        "Suprascapular artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "supratrochlear-artery",
+    "label": {
+      "en": "Supratrochlear artery"
+    },
+    "description": {
+      "en": "Supratrochlear artery"
+    },
+    "aliases": {
+      "en": [
+        "Supratrochlear artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "thyrocervical-trunk",
+    "label": {
+      "en": "Thyrocervical trunk"
+    },
+    "description": {
+      "en": "Thyrocervical trunk"
+    },
+    "aliases": {
+      "en": [
+        "Thyrocervical trunk"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "thyroid-ima-artery",
+    "label": {
+      "en": "Thyroid ima artery"
+    },
+    "description": {
+      "en": "Thyroid ima artery"
+    },
+    "aliases": {
+      "en": [
+        "Thyroid ima artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "tonsillar-branch-of-the-facial-artery",
+    "label": {
+      "en": "Tonsillar branch of the facial artery"
+    },
+    "description": {
+      "en": "Tonsillar branch of the facial artery"
+    },
+    "aliases": {
+      "en": [
+        "Tonsillar branch of the facial artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "transverse-cervical-artery",
+    "label": {
+      "en": "Transverse cervical artery"
+    },
+    "description": {
+      "en": "Transverse cervical artery"
+    },
+    "aliases": {
+      "en": [
+        "Transverse cervical artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "transverse-facial-artery",
+    "label": {
+      "en": "Transverse facial artery"
+    },
+    "description": {
+      "en": "Transverse facial artery"
+    },
+    "aliases": {
+      "en": [
+        "Transverse facial artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "trigeminal-artery",
+    "label": {
+      "en": "Trigeminal artery"
+    },
+    "description": {
+      "en": "Trigeminal artery"
+    },
+    "aliases": {
+      "en": [
+        "Trigeminal artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "vertebral-artery",
+    "label": {
+      "en": "Vertebral artery"
+    },
+    "description": {
+      "en": "Vertebral artery"
+    },
+    "aliases": {
+      "en": [
+        "Vertebral artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "zygomatico-orbital-artery",
+    "label": {
+      "en": "Zygomatico-orbital artery"
+    },
+    "description": {
+      "en": "Zygomatico-orbital artery"
+    },
+    "aliases": {
+      "en": [
+        "Zygomatico-orbital artery"
+      ]
+    },
+    "body-region": "head-and-neck",
+    "category": "artery"
+  },
+  {
+    "id": "acetabular-branch-of-medial-circumflex-femoral-artery",
+    "label": {
+      "en": "Acetabular branch of medial circumflex femoral artery"
+    },
+    "description": {
+      "en": "Acetabular branch of medial circumflex femoral artery"
+    },
+    "aliases": {
+      "en": [
+        "Acetabular branch of medial circumflex femoral artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-lateral-malleolar-artery",
+    "label": {
+      "en": "Anterior lateral malleolar artery"
+    },
+    "description": {
+      "en": "Anterior lateral malleolar artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior lateral malleolar artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-medial-malleolar-artery",
+    "label": {
+      "en": "Anterior medial malleolar artery"
+    },
+    "description": {
+      "en": "Anterior medial malleolar artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior medial malleolar artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-scrotal-artery",
+    "label": {
+      "en": "Anterior scrotal artery"
+    },
+    "description": {
+      "en": "Anterior scrotal artery"
+    },
+    "aliases": {
+      "en": [
+        "anterior scrotal artery",
+        "anterior scrotal arteries"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-tibial-artery",
+    "label": {
+      "en": "Anterior tibial artery"
+    },
+    "description": {
+      "en": "Anterior tibial artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior tibial artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-tibial-recurrent-artery",
+    "label": {
+      "en": "Anterior tibial recurrent artery"
+    },
+    "description": {
+      "en": "Anterior tibial recurrent artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior tibial recurrent artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "arcuate-artery-of-the-foot",
+    "label": {
+      "en": "Arcuate artery of the foot"
+    },
+    "description": {
+      "en": "Arcuate artery of the foot"
+    },
+    "aliases": {
+      "en": [
+        "Arcuate artery of the foot"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "articular-branches-of-descending-genicular-artery",
+    "label": {
+      "en": "Articular branches of descending genicular artery"
+    },
+    "description": {
+      "en": "Articular branches of descending genicular artery"
+    },
+    "aliases": {
+      "en": [
+        "Articular branches of descending genicular artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "ascending-branch-of-medial-circumflex-femoral-artery",
+    "label": {
+      "en": "Ascending branch of medial circumflex femoral artery"
+    },
+    "description": {
+      "en": "Ascending branch of medial circumflex femoral artery"
+    },
+    "aliases": {
+      "en": [
+        "Ascending branch of medial circumflex femoral artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "circumflex-fibular-artery",
+    "label": {
+      "en": "Circumflex fibular artery"
+    },
+    "description": {
+      "en": "Circumflex fibular artery"
+    },
+    "aliases": {
+      "en": [
+        "Circumflex fibular artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "common-plantar-digital-artery",
+    "label": {
+      "en": "Common plantar digital artery"
+    },
+    "description": {
+      "en": "Common plantar digital artery"
+    },
+    "aliases": {
+      "en": [
+        "common plantar digital artery",
+        "common plantar digital arteries"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "deep-artery-of-the-thigh",
+    "label": {
+      "en": "Deep artery of the thigh"
+    },
+    "description": {
+      "en": "Deep artery of the thigh"
+    },
+    "aliases": {
+      "en": [
+        "Deep artery of the thigh"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "deep-branch-of-medial-circumflex-femoral-artery",
+    "label": {
+      "en": "Deep branch of medial circumflex femoral artery"
+    },
+    "description": {
+      "en": "Deep branch of medial circumflex femoral artery"
+    },
+    "aliases": {
+      "en": [
+        "Deep branch of medial circumflex femoral artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "deep-external-pudendal-artery",
+    "label": {
+      "en": "Deep external pudendal artery"
+    },
+    "description": {
+      "en": "Deep external pudendal artery"
+    },
+    "aliases": {
+      "en": [
+        "Deep external pudendal artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "deep-plantar-artery",
+    "label": {
+      "en": "Deep plantar artery"
+    },
+    "description": {
+      "en": "Deep plantar artery"
+    },
+    "aliases": {
+      "en": [
+        "Deep plantar artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "descending-genicular-artery",
+    "label": {
+      "en": "Descending genicular artery"
+    },
+    "description": {
+      "en": "Descending genicular artery"
+    },
+    "aliases": {
+      "en": [
+        "Descending genicular artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "dorsal-digital-artery-of-foot",
+    "label": {
+      "en": "Dorsal digital artery of foot"
+    },
+    "description": {
+      "en": "Dorsal digital artery of foot"
+    },
+    "aliases": {
+      "en": [
+        "dorsal digital artery of foot",
+        "dorsal digital arteries of foot"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "dorsal-metatarsal-artery",
+    "label": {
+      "en": "Dorsal metatarsal artery"
+    },
+    "description": {
+      "en": "Dorsal metatarsal artery"
+    },
+    "aliases": {
+      "en": [
+        "dorsal metatarsal artery",
+        "dorsal metatarsal arteries"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "dorsalis-pedis-artery",
+    "label": {
+      "en": "Dorsalis pedis artery"
+    },
+    "description": {
+      "en": "Dorsalis pedis artery"
+    },
+    "aliases": {
+      "en": [
+        "Dorsalis pedis artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "external-iliac-artery",
+    "label": {
+      "en": "External iliac artery"
+    },
+    "description": {
+      "en": "External iliac artery"
+    },
+    "aliases": {
+      "en": [
+        "External iliac artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "femoral-artery",
+    "label": {
+      "en": "Femoral artery"
+    },
+    "description": {
+      "en": "Femoral artery"
+    },
+    "aliases": {
+      "en": [
+        "Femoral artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "femoral-vessel",
+    "label": {
+      "en": "Femoral vessel"
+    },
+    "description": {
+      "en": "Femoral vessel"
+    },
+    "aliases": {
+      "en": [
+        "Femoral vessel"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "fibular-artery",
+    "label": {
+      "en": "Fibular artery"
+    },
+    "description": {
+      "en": "Fibular artery"
+    },
+    "aliases": {
+      "en": [
+        "Fibular artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "first-dorsal-metatarsal-artery",
+    "label": {
+      "en": "First dorsal metatarsal artery"
+    },
+    "description": {
+      "en": "First dorsal metatarsal artery"
+    },
+    "aliases": {
+      "en": [
+        "First dorsal metatarsal artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "genicular-artery",
+    "label": {
+      "en": "Genicular artery"
+    },
+    "description": {
+      "en": "Genicular artery"
+    },
+    "aliases": {
+      "en": [
+        "Genicular artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-genicular-artery",
+    "label": {
+      "en": "Inferior genicular artery"
+    },
+    "description": {
+      "en": "Inferior genicular artery"
+    },
+    "aliases": {
+      "en": [
+        "inferior genicular artery",
+        "inferior genicular arteries"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "lateral-circumflex-femoral-artery",
+    "label": {
+      "en": "Lateral circumflex femoral artery"
+    },
+    "description": {
+      "en": "Lateral circumflex femoral artery"
+    },
+    "aliases": {
+      "en": [
+        "Lateral circumflex femoral artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "lateral-inferior-genicular-artery",
+    "label": {
+      "en": "Lateral inferior genicular artery"
+    },
+    "description": {
+      "en": "Lateral inferior genicular artery"
+    },
+    "aliases": {
+      "en": [
+        "Lateral inferior genicular artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "lateral-plantar-artery",
+    "label": {
+      "en": "Lateral plantar artery"
+    },
+    "description": {
+      "en": "Lateral plantar artery"
+    },
+    "aliases": {
+      "en": [
+        "Lateral plantar artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "lateral-superior-genicular-artery",
+    "label": {
+      "en": "Lateral superior genicular artery"
+    },
+    "description": {
+      "en": "Lateral superior genicular artery"
+    },
+    "aliases": {
+      "en": [
+        "Lateral superior genicular artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "lateral-tarsal-artery",
+    "label": {
+      "en": "Lateral tarsal artery"
+    },
+    "description": {
+      "en": "Lateral tarsal artery"
+    },
+    "aliases": {
+      "en": [
+        "Lateral tarsal artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "medial-circumflex-femoral-artery",
+    "label": {
+      "en": "Medial circumflex femoral artery"
+    },
+    "description": {
+      "en": "Medial circumflex femoral artery"
+    },
+    "aliases": {
+      "en": [
+        "Medial circumflex femoral artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "medial-inferior-genicular-artery",
+    "label": {
+      "en": "Medial inferior genicular artery"
+    },
+    "description": {
+      "en": "Medial inferior genicular artery"
+    },
+    "aliases": {
+      "en": [
+        "Medial inferior genicular artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "medial-plantar-artery",
+    "label": {
+      "en": "Medial plantar artery"
+    },
+    "description": {
+      "en": "Medial plantar artery"
+    },
+    "aliases": {
+      "en": [
+        "Medial plantar artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "medial-superior-genicular-artery",
+    "label": {
+      "en": "Medial superior genicular artery"
+    },
+    "description": {
+      "en": "Medial superior genicular artery"
+    },
+    "aliases": {
+      "en": [
+        "Medial superior genicular artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "medial-tarsal-artery",
+    "label": {
+      "en": "Medial tarsal artery"
+    },
+    "description": {
+      "en": "Medial tarsal artery"
+    },
+    "aliases": {
+      "en": [
+        "medial tarsal artery",
+        "medial tarsal arteries"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "middle-genicular-artery",
+    "label": {
+      "en": "Middle genicular artery"
+    },
+    "description": {
+      "en": "Middle genicular artery"
+    },
+    "aliases": {
+      "en": [
+        "Middle genicular artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "perforating-artery",
+    "label": {
+      "en": "Perforating artery"
+    },
+    "description": {
+      "en": "Perforating artery"
+    },
+    "aliases": {
+      "en": [
+        "perforating artery",
+        "perforating arteries"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "pimenta's-point",
+    "label": {
+      "en": "Pimenta's Point"
+    },
+    "description": {
+      "en": "Pimenta's Point"
+    },
+    "aliases": {
+      "en": [
+        "Pimenta's Point"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "plantar-arch",
+    "label": {
+      "en": "Plantar arch"
+    },
+    "description": {
+      "en": "Plantar arch"
+    },
+    "aliases": {
+      "en": [
+        "Plantar arch"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "plantar-metatarsal-artery",
+    "label": {
+      "en": "Plantar metatarsal artery"
+    },
+    "description": {
+      "en": "Plantar metatarsal artery"
+    },
+    "aliases": {
+      "en": [
+        "plantar metatarsal artery",
+        "plantar metatarsal arteries"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "popliteal-artery",
+    "label": {
+      "en": "Popliteal artery"
+    },
+    "description": {
+      "en": "Popliteal artery"
+    },
+    "aliases": {
+      "en": [
+        "Popliteal artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-tibial-artery",
+    "label": {
+      "en": "Posterior tibial artery"
+    },
+    "description": {
+      "en": "Posterior tibial artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior tibial artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-tibial-recurrent-artery",
+    "label": {
+      "en": "Posterior tibial recurrent artery"
+    },
+    "description": {
+      "en": "Posterior tibial recurrent artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior tibial recurrent artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "proper-plantar-digital-artery",
+    "label": {
+      "en": "Proper plantar digital artery"
+    },
+    "description": {
+      "en": "Proper plantar digital artery"
+    },
+    "aliases": {
+      "en": [
+        "proper plantar digital artery",
+        "proper plantar digital arteries"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "pudendal-artery",
+    "label": {
+      "en": "Pudendal artery"
+    },
+    "description": {
+      "en": "Pudendal artery"
+    },
+    "aliases": {
+      "en": [
+        "pudendal artery",
+        "pudendal arteries"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "saphenous-branch-of-descending-genicular-artery",
+    "label": {
+      "en": "Saphenous branch of descending genicular artery"
+    },
+    "description": {
+      "en": "Saphenous branch of descending genicular artery"
+    },
+    "aliases": {
+      "en": [
+        "Saphenous branch of descending genicular artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "superficial-branch-of-medial-circumflex-femoral-artery",
+    "label": {
+      "en": "Superficial branch of medial circumflex femoral artery"
+    },
+    "description": {
+      "en": "Superficial branch of medial circumflex femoral artery"
+    },
+    "aliases": {
+      "en": [
+        "Superficial branch of medial circumflex femoral artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "superficial-circumflex-iliac-artery",
+    "label": {
+      "en": "Superficial circumflex iliac artery"
+    },
+    "description": {
+      "en": "Superficial circumflex iliac artery"
+    },
+    "aliases": {
+      "en": [
+        "Superficial circumflex iliac artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "superficial-epigastric-artery",
+    "label": {
+      "en": "Superficial epigastric artery"
+    },
+    "description": {
+      "en": "Superficial epigastric artery"
+    },
+    "aliases": {
+      "en": [
+        "Superficial epigastric artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "superficial-external-pudendal-artery",
+    "label": {
+      "en": "Superficial external pudendal artery"
+    },
+    "description": {
+      "en": "Superficial external pudendal artery"
+    },
+    "aliases": {
+      "en": [
+        "Superficial external pudendal artery"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "superior-genicular-artery",
+    "label": {
+      "en": "Superior genicular artery"
+    },
+    "description": {
+      "en": "Superior genicular artery"
+    },
+    "aliases": {
+      "en": [
+        "superior genicular artery",
+        "superior genicular arteries"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+  {
+    "id": "sural-artery",
+    "label": {
+      "en": "Sural artery"
+    },
+    "description": {
+      "en": "Sural artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior genicular artery",
+        "Superior genicular arteries"
+      ]
+    },
+    "body-region": "lower-limb",
+    "category": "artery"
+  },
+
+  {
+    "id": "abdominal-aorta",
+    "label": {
+      "en": "Abdominal aorta"
+    },
+    "description": {
+      "en": "Abdominal aorta"
+    },
+    "aliases": {
+      "en": [
+        "Abdominal aorta"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "accompanying-artery-of-ischiadic-nerve",
+    "label": {
+      "en": "Accompanying artery of ischiadic nerve"
+    },
+    "description": {
+      "en": "Accompanying artery of ischiadic nerve"
+    },
+    "aliases": {
+      "en": [
+        "Accompanying artery of ischiadic nerve"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "adrenal-artery",
+    "label": {
+      "en": "Adrenal artery"
+    },
+    "description": {
+      "en": "Adrenal artery"
+    },
+    "aliases": {
+      "en": [
+        "Adrenal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-cecal-artery",
+    "label": {
+      "en": "Anterior cecal artery"
+    },
+    "description": {
+      "en": "Anterior cecal artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior cecal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "aorta",
+    "label": {
+      "en": "Aorta"
+    },
+    "description": {
+      "en": "Aorta"
+    },
+    "aliases": {
+      "en": [
+        "Aorta"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "appendicular-artery",
+    "label": {
+      "en": "Appendicular artery"
+    },
+    "description": {
+      "en": "Appendicular artery"
+    },
+    "aliases": {
+      "en": [
+        "Appendicular artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "arcuate-vessels-of-uterus",
+    "label": {
+      "en": "Arcuate vessels of uterus"
+    },
+    "description": {
+      "en": "Arcuate vessels of uterus"
+    },
+    "aliases": {
+      "en": [
+        "Arcuate vessels of uterus"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "arterial-arcades",
+    "label": {
+      "en": "Arterial arcades"
+    },
+    "description": {
+      "en": "Arterial arcades"
+    },
+    "aliases": {
+      "en": [
+        "Arterial arcades"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "artery-of-bulb-of-penis",
+    "label": {
+      "en": "Artery of bulb of penis"
+    },
+    "description": {
+      "en": "Artery of bulb of penis"
+    },
+    "aliases": {
+      "en": [
+        "Artery of bulb of penis"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "artery-of-bulb-of-vestibule",
+    "label": {
+      "en": "Artery of bulb of vestibule"
+    },
+    "description": {
+      "en": "Artery of bulb of vestibule"
+    },
+    "aliases": {
+      "en": [
+        "Artery of bulb of vestibule"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "artery-of-round-ligament-of-uterus",
+    "label": {
+      "en": "Artery of round ligament of uterus"
+    },
+    "description": {
+      "en": "Artery of round ligament of uterus"
+    },
+    "aliases": {
+      "en": [
+        "Artery of round ligament of uterus"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "artery-to-the-ductus-deferens",
+    "label": {
+      "en": "Artery to the ductus deferens"
+    },
+    "description": {
+      "en": "Artery to the ductus deferens"
+    },
+    "aliases": {
+      "en": [
+        "Artery to the ductus deferens"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "celiac-artery",
+    "label": {
+      "en": "Celiac artery"
+    },
+    "description": {
+      "en": "Celiac artery"
+    },
+    "aliases": {
+      "en": [
+        "Celiac artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "colic-branch-of-ileocolic-artery",
+    "label": {
+      "en": "Colic branch of ileocolic artery"
+    },
+    "description": {
+      "en": "Colic branch of ileocolic artery"
+    },
+    "aliases": {
+      "en": [
+        "Colic branch of ileocolic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "common-hepatic-artery",
+    "label": {
+      "en": "Common hepatic artery"
+    },
+    "description": {
+      "en": "Common hepatic artery"
+    },
+    "aliases": {
+      "en": [
+        "Common hepatic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "common-iliac-artery",
+    "label": {
+      "en": "Common iliac artery"
+    },
+    "description": {
+      "en": "Common iliac artery"
+    },
+    "aliases": {
+      "en": [
+        "Common iliac artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "common-iliac-vessels",
+    "label": {
+      "en": "Common iliac vessels"
+    },
+    "description": {
+      "en": "Common iliac vessels"
+    },
+    "aliases": {
+      "en": [
+        "Common iliac vessels"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "cremasteric-artery",
+    "label": {
+      "en": "Cremasteric artery"
+    },
+    "description": {
+      "en": "Cremasteric artery"
+    },
+    "aliases": {
+      "en": [
+        "Cremasteric artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "cruciate-anastomosis",
+    "label": {
+      "en": "Cruciate anastomosis"
+    },
+    "description": {
+      "en": "Cruciate anastomosis"
+    },
+    "aliases": {
+      "en": [
+        "Cruciate anastomosis"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "cystic-artery",
+    "label": {
+      "en": "Cystic artery"
+    },
+    "description": {
+      "en": "Cystic artery"
+    },
+    "aliases": {
+      "en": [
+        "Cystic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "deep-artery-of-clitoris",
+    "label": {
+      "en": "Deep artery of clitoris"
+    },
+    "description": {
+      "en": "Deep artery of clitoris"
+    },
+    "aliases": {
+      "en": [
+        "Deep artery of clitoris"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "deep-artery-of-the-penis",
+    "label": {
+      "en": "Deep artery of the penis"
+    },
+    "description": {
+      "en": "Deep artery of the penis"
+    },
+    "aliases": {
+      "en": [
+        "Deep artery of the penis"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "deep-circumflex-iliac-artery",
+    "label": {
+      "en": "Deep circumflex iliac artery"
+    },
+    "description": {
+      "en": "Deep circumflex iliac artery"
+    },
+    "aliases": {
+      "en": [
+        "Deep circumflex iliac artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "dorsal-artery-of-clitoris",
+    "label": {
+      "en": "Dorsal artery of clitoris"
+    },
+    "description": {
+      "en": "Dorsal artery of clitoris"
+    },
+    "aliases": {
+      "en": [
+        "Dorsal artery of clitoris"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "dorsal-artery-of-the-penis",
+    "label": {
+      "en": "Dorsal artery of the penis"
+    },
+    "description": {
+      "en": "Dorsal artery of the penis"
+    },
+    "aliases": {
+      "en": [
+        "Dorsal artery of the penis"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "dorsal-pancreatic-artery",
+    "label": {
+      "en": "Dorsal pancreatic artery"
+    },
+    "description": {
+      "en": "Dorsal pancreatic artery"
+    },
+    "aliases": {
+      "en": [
+        "Dorsal pancreatic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "epigastric-vessels",
+    "label": {
+      "en": "Epigastric vessels"
+    },
+    "description": {
+      "en": "Epigastric vessels"
+    },
+    "aliases": {
+      "en": [
+        "Epigastric vessels"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "esophageal-branches-of-left-gastric-artery",
+    "label": {
+      "en": "Esophageal branches of left gastric artery"
+    },
+    "description": {
+      "en": "Esophageal branches of left gastric artery"
+    },
+    "aliases": {
+      "en": [
+        "Esophageal branches of left gastric artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "external-iliac-artery",
+    "label": {
+      "en": "External iliac artery"
+    },
+    "description": {
+      "en": "External iliac artery"
+    },
+    "aliases": {
+      "en": [
+        "External iliac artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "gastroduodenal-artery",
+    "label": {
+      "en": "Gastroduodenal artery"
+    },
+    "description": {
+      "en": "Gastroduodenal artery"
+    },
+    "aliases": {
+      "en": [
+        "Gastroduodenal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "gonadal-artery",
+    "label": {
+      "en": "Gonadal artery"
+    },
+    "description": {
+      "en": "Gonadal artery"
+    },
+    "aliases": {
+      "en": [
+        "Gonadal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "greater-pancreatic-artery",
+    "label": {
+      "en": "Greater pancreatic artery"
+    },
+    "description": {
+      "en": "Greater pancreatic artery"
+    },
+    "aliases": {
+      "en": [
+        "Greater pancreatic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "helicine-artery-of-penis",
+    "label": {
+      "en": "Helicine artery of penis"
+    },
+    "description": {
+      "en": "Helicine artery of penis"
+    },
+    "aliases": {
+      "en": [
+        "helicine artery of penis",
+        "helicine arteries of penis"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "hepatic-artery-proper",
+    "label": {
+      "en": "Hepatic artery proper"
+    },
+    "description": {
+      "en": "Hepatic artery proper"
+    },
+    "aliases": {
+      "en": [
+        "Hepatic artery proper"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "ileal-artery",
+    "label": {
+      "en": "Ileal artery"
+    },
+    "description": {
+      "en": "Ileal artery"
+    },
+    "aliases": {
+      "en": [
+        "ileal artery",
+        "ileal arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "ileal-branch-of-ileocolic-artery",
+    "label": {
+      "en": "Ileal branch of ileocolic artery"
+    },
+    "description": {
+      "en": "Ileal branch of ileocolic artery"
+    },
+    "aliases": {
+      "en": [
+        "Ileal branch of ileocolic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "ileocolic-artery",
+    "label": {
+      "en": "Ileocolic artery"
+    },
+    "description": {
+      "en": "Ileocolic artery"
+    },
+    "aliases": {
+      "en": [
+        "Ileocolic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "iliac-branch-of-iliolumbar-artery",
+    "label": {
+      "en": "Iliac branch of iliolumbar artery"
+    },
+    "description": {
+      "en": "Iliac branch of iliolumbar artery"
+    },
+    "aliases": {
+      "en": [
+        "Iliac branch of iliolumbar artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "iliolumbar-artery",
+    "label": {
+      "en": "Iliolumbar artery"
+    },
+    "description": {
+      "en": "Iliolumbar artery"
+    },
+    "aliases": {
+      "en": [
+        "Iliolumbar artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-epigastric-artery",
+    "label": {
+      "en": "Inferior epigastric artery"
+    },
+    "description": {
+      "en": "Inferior epigastric artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior epigastric artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-gluteal-artery",
+    "label": {
+      "en": "Inferior gluteal artery"
+    },
+    "description": {
+      "en": "Inferior gluteal artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior gluteal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-mesenteric-artery",
+    "label": {
+      "en": "Inferior mesenteric artery"
+    },
+    "description": {
+      "en": "Inferior mesenteric artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior mesenteric artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-pancreaticoduodenal-artery",
+    "label": {
+      "en": "Inferior pancreaticoduodenal artery"
+    },
+    "description": {
+      "en": "Inferior pancreaticoduodenal artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior pancreaticoduodenal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-phrenic-artery",
+    "label": {
+      "en": "Inferior phrenic artery"
+    },
+    "description": {
+      "en": "Inferior phrenic artery"
+    },
+    "aliases": {
+      "en": [
+        "inferior phrenic artery",
+        "inferior phrenic arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-rectal-artery",
+    "label": {
+      "en": "Inferior rectal artery"
+    },
+    "description": {
+      "en": "Inferior rectal artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior rectal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-suprarenal-artery",
+    "label": {
+      "en": "Inferior suprarenal artery"
+    },
+    "description": {
+      "en": "Inferior suprarenal artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior suprarenal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-vesical-artery",
+    "label": {
+      "en": "Inferior vesical artery"
+    },
+    "description": {
+      "en": "Inferior vesical artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior vesical artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "internal-iliac-artery",
+    "label": {
+      "en": "Internal iliac artery"
+    },
+    "description": {
+      "en": "Internal iliac artery"
+    },
+    "aliases": {
+      "en": [
+        "Internal iliac artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "internal-pudendal-artery",
+    "label": {
+      "en": "Internal pudendal artery"
+    },
+    "description": {
+      "en": "Internal pudendal artery"
+    },
+    "aliases": {
+      "en": [
+        "Internal pudendal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "intestinal-artery",
+    "label": {
+      "en": "Intestinal artery"
+    },
+    "description": {
+      "en": "Intestinal artery"
+    },
+    "aliases": {
+      "en": [
+        "intestinal artery",
+        "intestinal arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "jejunal-artery",
+    "label": {
+      "en": "Jejunal artery"
+    },
+    "description": {
+      "en": "Jejunal artery"
+    },
+    "aliases": {
+      "en": [
+        "jejunal artery",
+        "jejunal arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "lateral-sacral-artery",
+    "label": {
+      "en": "Lateral sacral artery"
+    },
+    "description": {
+      "en": "Lateral sacral artery"
+    },
+    "aliases": {
+      "en": [
+        "Lateral sacral artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "left-colic-artery",
+    "label": {
+      "en": "Left colic artery"
+    },
+    "description": {
+      "en": "Left colic artery"
+    },
+    "aliases": {
+      "en": [
+        "Left colic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "left-gastric-artery",
+    "label": {
+      "en": "Left gastric artery"
+    },
+    "description": {
+      "en": "Left gastric artery"
+    },
+    "aliases": {
+      "en": [
+        "Left gastric artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "left-gastroepiploic-artery",
+    "label": {
+      "en": "Left gastroepiploic artery"
+    },
+    "description": {
+      "en": "Left gastroepiploic artery"
+    },
+    "aliases": {
+      "en": [
+        "Left gastroepiploic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "lumbar-artery",
+    "label": {
+      "en": "Lumbar artery"
+    },
+    "description": {
+      "en": "Lumbar artery"
+    },
+    "aliases": {
+      "en": [
+        "lumbar artery",
+        "lumbar arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "lumbar-branch-of-iliolumbar-artery",
+    "label": {
+      "en": "Lumbar branch of iliolumbar artery"
+    },
+    "description": {
+      "en": "Lumbar branch of iliolumbar artery"
+    },
+    "aliases": {
+      "en": [
+        "Lumbar branch of iliolumbar artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "marginal-artery-of-the-colon",
+    "label": {
+      "en": "Marginal artery of the colon"
+    },
+    "description": {
+      "en": "Marginal artery of the colon"
+    },
+    "aliases": {
+      "en": [
+        "Marginal artery of the colon"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "median-sacral-artery",
+    "label": {
+      "en": "Median sacral artery"
+    },
+    "description": {
+      "en": "Median sacral artery"
+    },
+    "aliases": {
+      "en": [
+        "Median sacral artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "mesenteric-artery",
+    "label": {
+      "en": "Mesenteric artery"
+    },
+    "description": {
+      "en": "Mesenteric artery"
+    },
+    "aliases": {
+      "en": [
+        "mesenteric artery",
+        "mesenteric arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "middle-colic-artery",
+    "label": {
+      "en": "Middle colic artery"
+    },
+    "description": {
+      "en": "Middle colic artery"
+    },
+    "aliases": {
+      "en": [
+        "Middle colic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "middle-rectal-artery",
+    "label": {
+      "en": "Middle rectal artery"
+    },
+    "description": {
+      "en": "Middle rectal artery"
+    },
+    "aliases": {
+      "en": [
+        "Middle rectal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "middle-suprarenal-artery",
+    "label": {
+      "en": "Middle suprarenal artery"
+    },
+    "description": {
+      "en": "Middle suprarenal artery"
+    },
+    "aliases": {
+      "en": [
+        "middle suprarenal artery",
+        "middle suprarenal arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "obturator-artery",
+    "label": {
+      "en": "Obturator artery"
+    },
+    "description": {
+      "en": "Obturator artery"
+    },
+    "aliases": {
+      "en": [
+        "Obturator artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "ovarian-artery",
+    "label": {
+      "en": "Ovarian artery"
+    },
+    "description": {
+      "en": "Ovarian artery"
+    },
+    "aliases": {
+      "en": [
+        "Ovarian artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "ovarian-branch-of-uterine-artery",
+    "label": {
+      "en": "Ovarian branch of uterine artery"
+    },
+    "description": {
+      "en": "Ovarian branch of uterine artery"
+    },
+    "aliases": {
+      "en": [
+        "Ovarian branch of uterine artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "pancreatic-branches-of-splenic-artery",
+    "label": {
+      "en": "Pancreatic branches of splenic artery"
+    },
+    "description": {
+      "en": "Pancreatic branches of splenic artery"
+    },
+    "aliases": {
+      "en": [
+        "Pancreatic branches of splenic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "perineal-artery",
+    "label": {
+      "en": "Perineal artery"
+    },
+    "description": {
+      "en": "Perineal artery"
+    },
+    "aliases": {
+      "en": [
+        "Perineal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-cecal-artery",
+    "label": {
+      "en": "Posterior cecal artery"
+    },
+    "description": {
+      "en": "Posterior cecal artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior cecal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-labial-artery",
+    "label": {
+      "en": "Posterior labial artery"
+    },
+    "description": {
+      "en": "Posterior labial artery"
+    },
+    "aliases": {
+      "en": [
+        "posterior labial artery",
+        "posterior labial arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-scrotal-artery",
+    "label": {
+      "en": "Posterior scrotal artery"
+    },
+    "description": {
+      "en": "Posterior scrotal artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior scrotal artery",
+        "Posterior scrotal arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "pudendal-artery",
+    "label": {
+      "en": "Pudendal artery"
+    },
+    "description": {
+      "en": "Pudendal artery"
+    },
+    "aliases": {
+      "en": [
+        "pudendal artery",
+        "pudendal arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "renal-artery",
+    "label": {
+      "en": "Renal artery"
+    },
+    "description": {
+      "en": "Renal artery"
+    },
+    "aliases": {
+      "en": [
+        "Renal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "right-colic-artery",
+    "label": {
+      "en": "Right colic artery"
+    },
+    "description": {
+      "en": "Right colic artery"
+    },
+    "aliases": {
+      "en": [
+        "Right colic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "right-gastric-artery",
+    "label": {
+      "en": "Right gastric artery"
+    },
+    "description": {
+      "en": "Right gastric artery"
+    },
+    "aliases": {
+      "en": [
+        "Right gastric artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "right-gastroepiploic-artery",
+    "label": {
+      "en": "Right gastroepiploic artery"
+    },
+    "description": {
+      "en": "Right gastroepiploic artery"
+    },
+    "aliases": {
+      "en": [
+        "Right gastroepiploic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "short-gastric-artery",
+    "label": {
+      "en": "Short gastric artery"
+    },
+    "description": {
+      "en": "Short gastric artery"
+    },
+    "aliases": {
+      "en": [
+        "short gastric artery",
+        "short gastric arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "sigmoid-artery",
+    "label": {
+      "en": "Sigmoid artery"
+    },
+    "description": {
+      "en": "Sigmoid artery"
+    },
+    "aliases": {
+      "en": [
+        "sigmoid artery",
+        "sigmoid arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "spiral-artery",
+    "label": {
+      "en": "Spiral artery"
+    },
+    "description": {
+      "en": "Spiral artery"
+    },
+    "aliases": {
+      "en": [
+        "Spiral artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "splenic-artery",
+    "label": {
+      "en": "Splenic artery"
+    },
+    "description": {
+      "en": "Splenic artery"
+    },
+    "aliases": {
+      "en": [
+        "Splenic artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "superficial-epigastric-artery",
+    "label": {
+      "en": "Superficial epigastric artery"
+    },
+    "description": {
+      "en": "Superficial epigastric artery"
+    },
+    "aliases": {
+      "en": [
+        "Superficial epigastric artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "superior-gluteal-artery",
+    "label": {
+      "en": "Superior gluteal artery"
+    },
+    "description": {
+      "en": "Superior gluteal artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior gluteal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "superior-mesenteric-artery",
+    "label": {
+      "en": "Superior mesenteric artery"
+    },
+    "description": {
+      "en": "Superior mesenteric artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior mesenteric artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "superior-pancreaticoduodenal-artery",
+    "label": {
+      "en": "Superior pancreaticoduodenal artery"
+    },
+    "description": {
+      "en": "Superior pancreaticoduodenal artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior pancreaticoduodenal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "superior-rectal-artery",
+    "label": {
+      "en": "Superior rectal artery"
+    },
+    "description": {
+      "en": "Superior rectal artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior rectal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "superior-suprarenal-artery",
+    "label": {
+      "en": "Superior suprarenal artery"
+    },
+    "description": {
+      "en": "Superior suprarenal artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior suprarenal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "superior-vesical-artery",
+    "label": {
+      "en": "Superior vesical artery"
+    },
+    "description": {
+      "en": "Superior vesical artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior vesical artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "supraduodenal-artery",
+    "label": {
+      "en": "Supraduodenal artery"
+    },
+    "description": {
+      "en": "Supraduodenal artery"
+    },
+    "aliases": {
+      "en": [
+        "Supraduodenal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "testicular-artery",
+    "label": {
+      "en": "Testicular artery"
+    },
+    "description": {
+      "en": "Testicular artery"
+    },
+    "aliases": {
+      "en": [
+        "Testicular artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "tubal-branch-of-uterine-artery",
+    "label": {
+      "en": "Tubal branch of uterine artery"
+    },
+    "description": {
+      "en": "Tubal branch of uterine artery"
+    },
+    "aliases": {
+      "en": [
+        "Tubal branch of uterine artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "umbilical-artery",
+    "label": {
+      "en": "Umbilical artery"
+    },
+    "description": {
+      "en": "Umbilical artery"
+    },
+    "aliases": {
+      "en": [
+        "Umbilical artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "ureteral-branches-of-renal-artery",
+    "label": {
+      "en": "Ureteral branches of renal artery"
+    },
+    "description": {
+      "en": "Ureteral branches of renal artery"
+    },
+    "aliases": {
+      "en": [
+        "Ureteral branches of renal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "urethral-artery",
+    "label": {
+      "en": "Urethral artery"
+    },
+    "description": {
+      "en": "Urethral artery"
+    },
+    "aliases": {
+      "en": [
+        "Urethral artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "uterine-artery",
+    "label": {
+      "en": "Uterine artery"
+    },
+    "description": {
+      "en": "Uterine artery"
+    },
+    "aliases": {
+      "en": [
+        "Uterine artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "vaginal-artery",
+    "label": {
+      "en": "Vaginal artery"
+    },
+    "description": {
+      "en": "Vaginal artery"
+    },
+    "aliases": {
+      "en": [
+        "Vaginal artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "vaginal-branches-of-uterine-artery",
+    "label": {
+      "en": "Vaginal branches of uterine artery"
+    },
+    "description": {
+      "en": "Vaginal branches of uterine artery"
+    },
+    "aliases": {
+      "en": [
+        "Vaginal branches of uterine artery"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "vasa-recta",
+    "label": {
+      "en": "Vasa recta"
+    },
+    "description": {
+      "en": "Vasa recta"
+    },
+    "aliases": {
+      "en": [
+        "Vasa recta"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+  {
+    "id": "vesical-artery",
+    "label": {
+      "en": "Vesical artery"
+    },
+    "description": {
+      "en": "Vesical artery"
+    },
+    "aliases": {
+      "en": [
+        "vesical artery",
+        "vesical arteries"
+      ]
+    },
+    "body-region": "abdomen",
+    "category": "artery"
+  },
+
+  {
+    "id": "anterior-interventricular-branch-of-left-coronary-artery",
+    "label": {
+      "en": "Anterior interventricular branch of left coronary artery"
+    },
+    "description": {
+      "en": "Anterior interventricular branch of left coronary artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior interventricular branch of left coronary artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "aortic-arch",
+    "label": {
+      "en": "Aortic arch"
+    },
+    "description": {
+      "en": "Aortic arch"
+    },
+    "aliases": {
+      "en": [
+        "Aortic arch"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "ascending-aorta",
+    "label": {
+      "en": "Ascending aorta"
+    },
+    "description": {
+      "en": "Ascending aorta"
+    },
+    "aliases": {
+      "en": [
+        "Ascending aorta"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "atrial-branches-of-coronary-artery",
+    "label": {
+      "en": "Atrial branches of coronary artery"
+    },
+    "description": {
+      "en": "Atrial branches of coronary artery"
+    },
+    "aliases": {
+      "en": [
+        "atrial branch of coronary artery",
+        "atrial branch of coronary arteries",
+        "atrial branches of coronary artery",
+        "atrial branches of coronary arteries"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "atrioventricular-nodal-branch",
+    "label": {
+      "en": "Atrioventricular nodal branch"
+    },
+    "description": {
+      "en": "Atrioventricular nodal branch"
+    },
+    "aliases": {
+      "en": [
+        "Atrioventricular nodal branch"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "brachiocephalic-artery",
+    "label": {
+      "en": "Brachiocephalic artery"
+    },
+    "description": {
+      "en": "Brachiocephalic artery"
+    },
+    "aliases": {
+      "en": [
+        "Brachiocephalic artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "bronchial-artery",
+    "label": {
+      "en": "Bronchial artery"
+    },
+    "description": {
+      "en": "Bronchial artery"
+    },
+    "aliases": {
+      "en": [
+        "Bronchial artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "circumflex-branch-of-left-coronary-artery",
+    "label": {
+      "en": "Circumflex branch of left coronary artery"
+    },
+    "description": {
+      "en": "Circumflex branch of left coronary artery"
+    },
+    "aliases": {
+      "en": [
+        "Circumflex branch of left coronary artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "common-carotid-artery",
+    "label": {
+      "en": "Common carotid artery"
+    },
+    "description": {
+      "en": "Common carotid artery"
+    },
+    "aliases": {
+      "en": [
+        "Common carotid artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "conus-artery",
+    "label": {
+      "en": "Conus artery"
+    },
+    "description": {
+      "en": "Conus artery"
+    },
+    "aliases": {
+      "en": [
+        "Conus artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "costocervical-trunk",
+    "label": {
+      "en": "Costocervical trunk"
+    },
+    "description": {
+      "en": "Costocervical trunk"
+    },
+    "aliases": {
+      "en": [
+        "Costocervical trunk"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "deep-cervical-artery",
+    "label": {
+      "en": "Deep cervical artery"
+    },
+    "description": {
+      "en": "Deep cervical artery"
+    },
+    "aliases": {
+      "en": [
+        "Deep cervical artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "descending-aorta",
+    "label": {
+      "en": "Descending aorta"
+    },
+    "description": {
+      "en": "Descending aorta"
+    },
+    "aliases": {
+      "en": [
+        "Descending aorta"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "esophageal-branches-of-thoracic-part-of-aorta",
+    "label": {
+      "en": "Esophageal branches of thoracic part of aorta"
+    },
+    "description": {
+      "en": "Esophageal branches of thoracic part of aorta"
+    },
+    "aliases": {
+      "en": [
+        "Esophageal branches of thoracic part of aorta"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "intercostal-artery",
+    "label": {
+      "en": "Intercostal artery"
+    },
+    "description": {
+      "en": "Intercostal artery"
+    },
+    "aliases": {
+      "en": [
+        "intercostal artery",
+        "intercostal arteries"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "internal-thoracic-artery",
+    "label": {
+      "en": "Internal thoracic artery"
+    },
+    "description": {
+      "en": "Internal thoracic artery"
+    },
+    "aliases": {
+      "en": [
+        "Internal thoracic artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "left-coronary-artery",
+    "label": {
+      "en": "Left coronary artery"
+    },
+    "description": {
+      "en": "Left coronary artery"
+    },
+    "aliases": {
+      "en": [
+        "Left coronary artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "left-marginal-artery",
+    "label": {
+      "en": "Left marginal artery"
+    },
+    "description": {
+      "en": "Left marginal artery"
+    },
+    "aliases": {
+      "en": [
+        "Left marginal artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "left-pulmonary-artery",
+    "label": {
+      "en": "Left pulmonary artery"
+    },
+    "description": {
+      "en": "Left pulmonary artery"
+    },
+    "aliases": {
+      "en": [
+        "Left pulmonary artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "mediastinal-branches-of-thoracic-part-of-aorta",
+    "label": {
+      "en": "Mediastinal branches of thoracic part of aorta"
+    },
+    "description": {
+      "en": "Mediastinal branches of thoracic part of aorta"
+    },
+    "aliases": {
+      "en": [
+        "Mediastinal branches of thoracic part of aorta"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "perforating-branches-of-internal-thoracic-artery",
+    "label": {
+      "en": "Perforating branches of internal thoracic artery"
+    },
+    "description": {
+      "en": "Perforating branches of internal thoracic artery"
+    },
+    "aliases": {
+      "en": [
+        "Perforating branches of internal thoracic artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "pericardiacophrenic-artery",
+    "label": {
+      "en": "Pericardiacophrenic artery"
+    },
+    "description": {
+      "en": "Pericardiacophrenic artery"
+    },
+    "aliases": {
+      "en": [
+        "Pericardiacophrenic artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-interventricular-artery",
+    "label": {
+      "en": "Posterior interventricular artery"
+    },
+    "description": {
+      "en": "Posterior interventricular artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior interventricular artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "pulmonary-artery",
+    "label": {
+      "en": "Pulmonary artery"
+    },
+    "description": {
+      "en": "Pulmonary artery"
+    },
+    "aliases": {
+      "en": [
+        "Pulmonary artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "right-coronary-artery",
+    "label": {
+      "en": "Right coronary artery"
+    },
+    "description": {
+      "en": "Right coronary artery"
+    },
+    "aliases": {
+      "en": [
+        "Right coronary artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "right-marginal-branch-of-right-coronary-artery",
+    "label": {
+      "en": "Right marginal branch of right coronary artery"
+    },
+    "description": {
+      "en": "Right marginal branch of right coronary artery"
+    },
+    "aliases": {
+      "en": [
+        "Right marginal branch of right coronary artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "right-pulmonary-artery",
+    "label": {
+      "en": "Right pulmonary artery"
+    },
+    "description": {
+      "en": "Right pulmonary artery"
+    },
+    "aliases": {
+      "en": [
+        "Right pulmonary artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "sinoatrial-nodal-artery",
+    "label": {
+      "en": "Sinoatrial nodal artery"
+    },
+    "description": {
+      "en": "Sinoatrial nodal artery"
+    },
+    "aliases": {
+      "en": [
+        "Sinoatrial nodal artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "subclavian-artery",
+    "label": {
+      "en": "Subclavian artery"
+    },
+    "description": {
+      "en": "Subclavian artery"
+    },
+    "aliases": {
+      "en": [
+        "Subclavian artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "subcostal-artery",
+    "label": {
+      "en": "Subcostal artery"
+    },
+    "description": {
+      "en": "Subcostal artery"
+    },
+    "aliases": {
+      "en": [
+        "subcostal artery",
+        "subcostal arteries"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "superior-epigastric-artery",
+    "label": {
+      "en": "Superior epigastric artery"
+    },
+    "description": {
+      "en": "Superior epigastric artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior epigastric artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "superior-phrenic-artery",
+    "label": {
+      "en": "Superior phrenic artery"
+    },
+    "description": {
+      "en": "Superior phrenic artery"
+    },
+    "aliases": {
+      "en": [
+        "superior phrenic artery",
+        "superior phrenic arteries"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "thoracic-aorta",
+    "label": {
+      "en": "Thoracic aorta"
+    },
+    "description": {
+      "en": "Thoracic aorta"
+    },
+    "aliases": {
+      "en": [
+        "Thoracic aorta"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "thymic-branches-of-internal-thoracic-artery",
+    "label": {
+      "en": "Thymic branches of internal thoracic artery"
+    },
+    "description": {
+      "en": "Thymic branches of internal thoracic artery"
+    },
+    "aliases": {
+      "en": [
+        "Thymic branches of internal thoracic artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+  {
+    "id": "thyroid-ima-artery",
+    "label": {
+      "en": "Thyroid ima artery"
+    },
+    "description": {
+      "en": "Thyroid ima artery"
+    },
+    "aliases": {
+      "en": [
+        "Thyroid ima artery"
+      ]
+    },
+    "body-region": "thorax",
+    "category": "artery"
+  },
+
+  {
+    "id": "anterior-humeral-circumflex-artery",
+    "label": {
+      "en": "Anterior humeral circumflex artery"
+    },
+    "description": {
+      "en": "Anterior humeral circumflex artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior humeral circumflex artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-interosseous-artery",
+    "label": {
+      "en": "Anterior interosseous artery"
+    },
+    "description": {
+      "en": "Anterior interosseous artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior interosseous artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "anterior-ulnar-recurrent-artery",
+    "label": {
+      "en": "Anterior ulnar recurrent artery"
+    },
+    "description": {
+      "en": "Anterior ulnar recurrent artery"
+    },
+    "aliases": {
+      "en": [
+        "Anterior ulnar recurrent artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "axillary-artery",
+    "label": {
+      "en": "Axillary artery"
+    },
+    "description": {
+      "en": "Axillary artery"
+    },
+    "aliases": {
+      "en": [
+        "Axillary artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "axillary-sheath",
+    "label": {
+      "en": "Axillary sheath"
+    },
+    "description": {
+      "en": "Axillary sheath"
+    },
+    "aliases": {
+      "en": [
+        "Axillary sheath"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "brachial-artery",
+    "label": {
+      "en": "Brachial artery"
+    },
+    "description": {
+      "en": "Brachial artery"
+    },
+    "aliases": {
+      "en": [
+        "Brachial artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "circumflex-scapular-artery",
+    "label": {
+      "en": "Circumflex scapular artery"
+    },
+    "description": {
+      "en": "Circumflex scapular artery"
+    },
+    "aliases": {
+      "en": [
+        "Circumflex scapular artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "common-interosseous-artery",
+    "label": {
+      "en": "Common interosseous artery"
+    },
+    "description": {
+      "en": "Common interosseous artery"
+    },
+    "aliases": {
+      "en": [
+        "Common interosseous artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "common-palmar-digital-artery",
+    "label": {
+      "en": "Common palmar digital artery"
+    },
+    "description": {
+      "en": "Common palmar digital artery"
+    },
+    "aliases": {
+      "en": [
+        "common palmar digital artery",
+        "common palmar digital arteries"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "deep-artery-of-arm",
+    "label": {
+      "en": "Deep artery of arm"
+    },
+    "description": {
+      "en": "Deep artery of arm"
+    },
+    "aliases": {
+      "en": [
+        "Deep artery of arm"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "deep-palmar-arch",
+    "label": {
+      "en": "Deep palmar arch"
+    },
+    "description": {
+      "en": "Deep palmar arch"
+    },
+    "aliases": {
+      "en": [
+        "Deep palmar arch"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "deep-palmar-branch-of-ulnar-artery",
+    "label": {
+      "en": "Deep palmar branch of ulnar artery"
+    },
+    "description": {
+      "en": "Deep palmar branch of ulnar artery"
+    },
+    "aliases": {
+      "en": [
+        "Deep palmar branch of ulnar artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "deltoid-branch-of-thoracoacromial-artery",
+    "label": {
+      "en": "Deltoid branch of thoracoacromial artery"
+    },
+    "description": {
+      "en": "Deltoid branch of thoracoacromial artery"
+    },
+    "aliases": {
+      "en": [
+        "Deltoid branch of thoracoacromial artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "dorsal-carpal-arch",
+    "label": {
+      "en": "Dorsal carpal arch"
+    },
+    "description": {
+      "en": "Dorsal carpal arch"
+    },
+    "aliases": {
+      "en": [
+        "Dorsal carpal arch"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "dorsal-carpal-branch-of-the-radial-artery",
+    "label": {
+      "en": "Dorsal carpal branch of the radial artery"
+    },
+    "description": {
+      "en": "Dorsal carpal branch of the radial artery"
+    },
+    "aliases": {
+      "en": [
+        "Dorsal carpal branch of the radial artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "dorsal-carpal-branch-of-the-ulnar-artery",
+    "label": {
+      "en": "Dorsal carpal branch of the ulnar artery"
+    },
+    "description": {
+      "en": "Dorsal carpal branch of the ulnar artery"
+    },
+    "aliases": {
+      "en": [
+        "Dorsal carpal branch of the ulnar artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "dorsal-digital-artery-of-hand",
+    "label": {
+      "en": "Dorsal digital artery of hand"
+    },
+    "description": {
+      "en": "Dorsal digital artery of hand"
+    },
+    "aliases": {
+      "en": [
+        "dorsal digital artery of hand",
+        "dorsal digital arteries of hand"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "dorsal-metacarpal-artery",
+    "label": {
+      "en": "Dorsal metacarpal artery"
+    },
+    "description": {
+      "en": "Dorsal metacarpal artery"
+    },
+    "aliases": {
+      "en": [
+        "dorsal metacarpal artery",
+        "dorsal metacarpal arteries"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "inferior-ulnar-collateral-artery",
+    "label": {
+      "en": "Inferior ulnar collateral artery"
+    },
+    "description": {
+      "en": "Inferior ulnar collateral artery"
+    },
+    "aliases": {
+      "en": [
+        "Inferior ulnar collateral artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "interosseous-recurrent-artery",
+    "label": {
+      "en": "Interosseous recurrent artery"
+    },
+    "description": {
+      "en": "Interosseous recurrent artery"
+    },
+    "aliases": {
+      "en": [
+        "Interosseous recurrent artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "lateral-thoracic-artery",
+    "label": {
+      "en": "Lateral thoracic artery"
+    },
+    "description": {
+      "en": "Lateral thoracic artery"
+    },
+    "aliases": {
+      "en": [
+        "Lateral thoracic artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "medial-collateral-artery",
+    "label": {
+      "en": "Medial collateral artery"
+    },
+    "description": {
+      "en": "Medial collateral artery"
+    },
+    "aliases": {
+      "en": [
+        "Medial collateral artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "median-artery",
+    "label": {
+      "en": "Median artery"
+    },
+    "description": {
+      "en": "Median artery"
+    },
+    "aliases": {
+      "en": [
+        "Median artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "palmar-carpal-arch",
+    "label": {
+      "en": "Palmar carpal arch"
+    },
+    "description": {
+      "en": "Palmar carpal arch"
+    },
+    "aliases": {
+      "en": [
+        "Palmar carpal arch"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "palmar-carpal-branch-of-radial-artery",
+    "label": {
+      "en": "Palmar carpal branch of radial artery"
+    },
+    "description": {
+      "en": "Palmar carpal branch of radial artery"
+    },
+    "aliases": {
+      "en": [
+        "Palmar carpal branch of radial artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "palmar-carpal-branch-of-ulnar-artery",
+    "label": {
+      "en": "Palmar carpal branch of ulnar artery"
+    },
+    "description": {
+      "en": "Palmar carpal branch of ulnar artery"
+    },
+    "aliases": {
+      "en": [
+        "Palmar carpal branch of ulnar artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "palmar-metacarpal-artery",
+    "label": {
+      "en": "Palmar metacarpal artery"
+    },
+    "description": {
+      "en": "Palmar metacarpal artery"
+    },
+    "aliases": {
+      "en": [
+        "palmar metacarpal artery",
+        "palmar metacarpal arteries"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-humeral-circumflex-artery",
+    "label": {
+      "en": "Posterior humeral circumflex artery"
+    },
+    "description": {
+      "en": "Posterior humeral circumflex artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior humeral circumflex artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-interosseous-artery",
+    "label": {
+      "en": "Posterior interosseous artery"
+    },
+    "description": {
+      "en": "Posterior interosseous artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior interosseous artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "posterior-ulnar-recurrent-artery",
+    "label": {
+      "en": "Posterior ulnar recurrent artery"
+    },
+    "description": {
+      "en": "Posterior ulnar recurrent artery"
+    },
+    "aliases": {
+      "en": [
+        "Posterior ulnar recurrent artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "princeps-pollicis-artery",
+    "label": {
+      "en": "Princeps pollicis artery"
+    },
+    "description": {
+      "en": "Princeps pollicis artery"
+    },
+    "aliases": {
+      "en": [
+        "Princeps pollicis artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "proper-palmar-digital-artery",
+    "label": {
+      "en": "Proper palmar digital artery"
+    },
+    "description": {
+      "en": "Proper palmar digital artery"
+    },
+    "aliases": {
+      "en": [
+        "proper palmar digital artery",
+        "proper palmar digital arteries"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "radial-artery",
+    "label": {
+      "en": "Radial artery"
+    },
+    "description": {
+      "en": "Radial artery"
+    },
+    "aliases": {
+      "en": [
+        "Radial artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "radial-artery-of-index-finger",
+    "label": {
+      "en": "Radial artery of index finger"
+    },
+    "description": {
+      "en": "Radial artery of index finger"
+    },
+    "aliases": {
+      "en": [
+        "Radial artery of index finger"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "radial-collateral-artery",
+    "label": {
+      "en": "Radial collateral artery"
+    },
+    "description": {
+      "en": "Radial collateral artery"
+    },
+    "aliases": {
+      "en": [
+        "Radial collateral artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "radial-recurrent-artery",
+    "label": {
+      "en": "Radial recurrent artery"
+    },
+    "description": {
+      "en": "Radial recurrent artery"
+    },
+    "aliases": {
+      "en": [
+        "Radial recurrent artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "scapular-anastomosis",
+    "label": {
+      "en": "Scapular anastomosis"
+    },
+    "description": {
+      "en": "Scapular anastomosis"
+    },
+    "aliases": {
+      "en": [
+        "Scapular anastomosis"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "subscapular-artery",
+    "label": {
+      "en": "Subscapular artery"
+    },
+    "description": {
+      "en": "Subscapular artery"
+    },
+    "aliases": {
+      "en": [
+        "Subscapular artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "superficial-palmar-arch",
+    "label": {
+      "en": "Superficial palmar arch"
+    },
+    "description": {
+      "en": "Superficial palmar arch"
+    },
+    "aliases": {
+      "en": [
+        "Superficial palmar arch"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "superficial-palmar-branch-of-radial-artery",
+    "label": {
+      "en": "Superficial palmar branch of radial artery"
+    },
+    "description": {
+      "en": "Superficial palmar branch of radial artery"
+    },
+    "aliases": {
+      "en": [
+        "Superficial palmar branch of radial artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "superior-thoracic-artery",
+    "label": {
+      "en": "Superior thoracic artery"
+    },
+    "description": {
+      "en": "Superior thoracic artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior thoracic artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "superior-ulnar-collateral-artery",
+    "label": {
+      "en": "Superior ulnar collateral artery"
+    },
+    "description": {
+      "en": "Superior ulnar collateral artery"
+    },
+    "aliases": {
+      "en": [
+        "Superior ulnar collateral artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "thoracoacromial-artery",
+    "label": {
+      "en": "Thoracoacromial artery"
+    },
+    "description": {
+      "en": "Thoracoacromial artery"
+    },
+    "aliases": {
+      "en": [
+        "Thoracoacromial artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "thoracodorsal-artery",
+    "label": {
+      "en": "Thoracodorsal artery"
+    },
+    "description": {
+      "en": "Thoracodorsal artery"
+    },
+    "aliases": {
+      "en": [
+        "Thoracodorsal artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  },
+  {
+    "id": "ulnar-artery",
+    "label": {
+      "en": "Ulnar artery"
+    },
+    "description": {
+      "en": "Ulnar artery"
+    },
+    "aliases": {
+      "en": [
+        "Ulnar artery"
+      ]
+    },
+    "body-region": "upper-limb",
+    "category": "artery"
+  }
+]
